@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb2f8785-cc77-4fd4-bdb2-4e0f693cb658" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/question 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary/valid parentheses question 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop practice question/que9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/for loop python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/1 to 100 even number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/1 to n number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/a to z.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/factor of number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/factorial of number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/fibonacci upto n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/n to 1 number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/prime no 1 to n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/prime or not .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/sum of all odd numbers between 1 to n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/sum of digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loop python/yu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gaurav.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/if else python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if else python/question 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/count list without function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/dic question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/duplicate values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/even and odd number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/find common values between two list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/find duplicate element in list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/find max profit in the list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/max and min number in list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/pascel triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/print in acending order without any function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/reverse a list without using function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/sorted a list without use function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/sum of list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/two sum leet code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/vowel or consonent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/.idea/patterns question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/question 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/temp 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns question/temp 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-27 164731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-27 165012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 145214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 145848.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 151131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 152910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 223844.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 225617.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 232701.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 232727.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 235025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 235737.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-28 235932.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 000444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 002250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 003338.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 003731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 003855.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 125706.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 131500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 131939.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 145237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 151315.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-29 152751.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-30 134253.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-30 134850.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-30 140742.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-30 141100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-10-30 142819.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/Screenshot 2025-11-06 153414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 222924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 225107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 225427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 231010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 231326.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 231937.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 232514.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 233107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-09 234238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 000054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 001225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 004146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 102616.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 103128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 105315.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-10 105329.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/Screenshot 2025-10-27 163037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python screenshot/reverse a number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/question 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/question 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/.idea/while loop python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/armstrong number 2 way.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/hcf of tow no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/palidrome a number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/prime or not prime 2 way.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 1 natural numbers from 1 to n..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 10 enter a number and print its reverse..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 2 natural numbers in reverse (from n to 1)..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 3 print all alphabets from a to z..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 4 print all even numbers between 1 to 100..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 5 sum of all odd numbers between 1 to n..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 6 count the number of digits in a number..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 7 calculate the sum of digits of a number..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 8 first and last digit of a number..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/question 9 sum of first and last digit of a number..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/qustion 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/reverse no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/string palidrome or not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while loop python/temp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gaurav712-gujjar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gaurav712-gujjar/python.git",
+    "accountId": "0d02a13e-35c1-48eb-9384-fd92073494a9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35KITXCQamg4gcElRgJo4PKjz4N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dic question.executor": "Run",
+    "Python.duplicate values.executor": "Run",
+    "Python.even and odd number.executor": "Run",
+    "Python.max and min number in list.executor": "Run",
+    "Python.palidrome a number.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.prime no 1 to n.executor": "Run",
+    "Python.prime or not .executor": "Run",
+    "Python.que1.executor": "Run",
+    "Python.que10.executor": "Run",
+    "Python.que11.executor": "Run",
+    "Python.que12.executor": "Run",
+    "Python.que13.executor": "Run",
+    "Python.que14.executor": "Run",
+    "Python.que15.executor": "Run",
+    "Python.que16.executor": "Run",
+    "Python.que17.executor": "Run",
+    "Python.que18.executor": "Run",
+    "Python.que19.executor": "Run",
+    "Python.que2.executor": "Run",
+    "Python.que20.executor": "Run",
+    "Python.que21.executor": "Run",
+    "Python.que22.executor": "Run",
+    "Python.que23.executor": "Run",
+    "Python.que24.executor": "Run",
+    "Python.que25.executor": "Run",
+    "Python.que26.executor": "Run",
+    "Python.que27.executor": "Run",
+    "Python.que28.executor": "Run",
+    "Python.que29.executor": "Run",
+    "Python.que3.executor": "Run",
+    "Python.que30.executor": "Run",
+    "Python.que31.executor": "Run",
+    "Python.que32.executor": "Run",
+    "Python.que34.executor": "Run",
+    "Python.que35.executor": "Run",
+    "Python.que36.executor": "Run",
+    "Python.que38.executor": "Run",
+    "Python.que39.executor": "Run",
+    "Python.que4.executor": "Run",
+    "Python.que40.executor": "Run",
+    "Python.que41.executor": "Run",
+    "Python.que42.executor": "Run",
+    "Python.que5.executor": "Run",
+    "Python.que6.executor": "Run",
+    "Python.que7.executor": "Run",
+    "Python.que8.executor": "Run",
+    "Python.que9.executor": "Run",
+    "Python.question 1.executor": "Run",
+    "Python.question 14.executor": "Run",
+    "Python.question 17.executor": "Run",
+    "Python.question 19.executor": "Run",
+    "Python.question 2.executor": "Run",
+    "Python.question 3.executor": "Run",
+    "Python.question 4.executor": "Run",
+    "Python.question 5.executor": "Run",
+    "Python.question 6.executor": "Run",
+    "Python.reverse a list without using function.executor": "Run",
+    "Python.sorted a list without use function.executor": "Run",
+    "Python.valid parentheses question 6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="dic question" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/dic question.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2f8785-cc77-4fd4-bdb2-4e0f693cb658" name="Changes" comment="" />
+      <created>1762852350188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762852350188</updated>
+      <workItem from="1762852351223" duration="9000" />
+    </task>
+    <servers />
+  </component>
+</project>

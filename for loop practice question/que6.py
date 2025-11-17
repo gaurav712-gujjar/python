@@ -1,0 +1,3 @@
+s=("python")
+for ch in s:
+    print(ch,end=' ')
