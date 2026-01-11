@@ -1,0 +1,60 @@
+-------------------
+📌 DATA TYPES
+-------------------
+int
+float
+complex
+str
+bool
+list
+tuple
+range
+set
+frozenset
+dict
+bytes
+bytearray
+memoryview
+NoneType
+
+
+-------------------
+📌 ARITHMETIC OPERATORS
+-------------------
++   -   *   /   //   %   **
+
+
+-------------------
+📌 COMPARISON OPERATORS
+-------------------
+==   !=   >   <   >=   <=
+
+
+-------------------
+📌 LOGICAL OPERATORS
+-------------------
+and   or   not
+
+
+-------------------
+📌 ASSIGNMENT OPERATORS
+-------------------
+=   +=   -=   *=   /=   //=   %=   **=
+
+
+-------------------
+📌 BITWISE OPERATORS
+-------------------
+&   |   ^   ~   <<   >>
+
+
+-------------------
+📌 MEMBERSHIP OPERATORS
+-------------------
+in   not in
+
+
+-------------------
+📌 IDENTITY OPERATORS
+-------------------
+is   is not
